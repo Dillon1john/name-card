@@ -1,4 +1,4 @@
-#Name-Card
+# Name-Card
 
 Created a name card site using flask web framework and python programming language. Site displays my image along with links to my social medias and a custom background image.
 
